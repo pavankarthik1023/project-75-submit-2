@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "project-75-attempt-2",
+    "slug": "snack-c1b0b269-abfd-425c-bb3d-5a7c1ed0ea6c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "story writing and story reading."
+  }
+}
